@@ -2,11 +2,11 @@
 
 Script to encrypt and decrypt as Caesar. 
 
- ID 
+ID 
 
-Primero a sum is performed.
+First a sum is performed.
 
- Encryption and encryption.
+Decrypt or encrypt
 
 
 By elblancel.
